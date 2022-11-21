@@ -50,7 +50,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.Collections;
 
-import com.android.settings.custom.preference.SystemSettingSwitchPreference;
+import com.montion.support.preferences.SystemSettingSwitchPreference;
 
 public class NetworkTrafficSettings extends SettingsPreferenceFragment implements
         OnPreferenceChangeListener {
